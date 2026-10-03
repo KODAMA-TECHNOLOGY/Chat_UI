@@ -1,5 +1,5 @@
 # Chat_UI
-Chat_UI是最迅速、最轻量化、最通用、无依赖的LLM聊天客户端，仅2个文件，总共小于100kb，有浏览器就能用。支持几乎全部的参数调整、全部的API格式；支持多模态交互；支持历史记录导出与快速编辑。<br>
+Chat_UI是最迅速、最轻量化、最通用、无依赖的LLM聊天客户端，仅2个文件，总共小于100kb，有浏览器就能用。支持完整的AI聊天基本功能、几乎全部的参数调整、支援全部的API格式；支持多模态交互；支持历史记录导出与快速编辑。<br>
 Chat_UI is the fastest, lightest, most versatile, and zero-dependency LLM chat client available. Comprising just two files totaling under 100 KB, it runs instantly anywhere with a web browser. It offers comprehensive parameter tuning and full compatibility with all standard API formats, along with native support for multimodal interaction, rapid history reading, and export.<br>
 Chat_UIは、最速・最軽量・高汎用で依存関係ゼロのLLMチャットクライアントです。構成ファイルはわずか2つ（合計100KB未満）で、ブラウザさえあればどこでも即座に動作します。ほぼすべてのパラメータ調整や全APIフォーマットに完全対応し、マルチモーダル対話をはじめ、会話履歴のエクスポートや迅速な編集機能も網羅しています。<br><br>
 
